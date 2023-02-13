@@ -7,7 +7,10 @@ Tendremos botones para elegir entre piedra papel o tijera, una vez seleccionada 
 
 ![ganar](https://user-images.githubusercontent.com/24707320/218569551-3a20df9c-a7bc-4937-a0e8-f609ae1e9bdc.png)
 
- Podemos visualizar tambien un aviso que nos indicara si hemos ganado, perdido o ha sido un empate 
+ Podemos visualizar tambien un aviso que nos indicara si hemos ganado, perdido o ha sido un empate.
+ 
+ Puedes descargar y probar el juego desde este enlace (Recuerda tener el archivo app.exe y guippt.ui en la misma carpeta)
+ https://drive.google.com/file/d/1qgSXFP0T7fB2jm74HZcEAm4tujZh8vwY/view?usp=share_link
 
 
 
