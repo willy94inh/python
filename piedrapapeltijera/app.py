@@ -11,7 +11,6 @@ class ejemplo_gui(QMainWindow):
 
     def __init__(self):
         super().__init__()
-        #cargamos la interfaz graficas, en este caso se llama guippt.ui
         uic.loadUi("guippt.ui", self)
         self.setFixedSize(self.size())
         #Conectamos los botones a las funciones 
@@ -88,6 +87,7 @@ def juego (self, opc):
                 #print(opc," ",compu)
                 #print para ver los resultado en consolo, ignorar
        
+
   
 if __name__ == "__main__":
     app = QApplication(sys.argv)
