@@ -69,7 +69,7 @@ def juego (self, opc):
             imagen = QPixmap("empate.png")
             self.mostrar.setPixmap (imagen)
             #print(opc," ",compu)
-            #print para ver los resultado en consolo, ignorar
+            #print para ver los resultado en consola, ignorar
             
            
         elif opc == 1 and compu == 3 or opc == 2 and compu == 1 or opc == 3 and compu == 2 :
@@ -77,7 +77,7 @@ def juego (self, opc):
             imagen = QPixmap("ganaste.png")
             self.mostrar.setPixmap (imagen)
             #print(opc," ",compu)
-            #print para ver los resultado en consolo, ignorar
+            #print para ver los resultado en consola, ignorar
             
         else:
         #Comparamos la eleccion del usuario y la del cpu, caso contrario de ganar
@@ -85,7 +85,7 @@ def juego (self, opc):
                 self.mostrar.setPixmap (imagen)
 
                 #print(opc," ",compu)
-                #print para ver los resultado en consolo, ignorar
+                #print para ver los resultado en consola, ignorar
        
 
   
